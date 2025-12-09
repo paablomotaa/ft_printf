@@ -2,7 +2,7 @@
 
 # ft_printf
 
-### Description
+### 📄 Description
 
 This project simulates the operation of printf from the stdio.h library. 
 It simulates the following types:
@@ -16,11 +16,11 @@ It simulates the following types:
 - %X to print a hexadecimal number in uppercase.
 - %% to print the percent symbol.
 
-### Instructions
+### 📝 Instructions
 
 To run the program, you must execute make to ensure that the library is installed correctly. Then, you must uncomment the main in the ft_printf.c file and run it normally.
 
-### Resources
+### 🖇️ Resources
 
 - [Gitbook 42](https://42-cursus.gitbook.io/guide/1-rank-01/ft_printf) | General explanation of the project and first steps to understand the idea.
 
